@@ -1,0 +1,17 @@
+# Python 3.12
+numpy==1.26.4
+pandas==2.3.3
+python-dotenv
+scikit-learn==1.6.0
+scipy==1.16.3
+dataclasses==0.6
+matplotlib
+joblib
+
+# Python 3.12 for baselines
+# autogluon==1.4.0
+# FLAML==2.6.0
+
+# Python 3.8 for auto-sklearn and TPOT
+# auto-sklearn==0.15.0
+# tpot==0.12.1
