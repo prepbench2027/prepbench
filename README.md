@@ -1,5 +1,7 @@
 # PrepBench Artifact
 
+The full artifact package can be downloaded at https://drive.google.com/file/d/1RM2FUiAbAlmCs-OXLpZeeQVm2pXhBK3d/view?usp=sharing
+
 This artifact accompanies the VLDB EA&B submission:
 
 **PrepBench: A Factorized Benchmark for Cost-Aware Data-Preparation Pipeline Search [Experiment, Analysis & Benchmark]**
@@ -23,10 +25,10 @@ The released files support the following claims from the paper:
 prepbench-vldb-eab-artifact/
   README.md
   requirements.txt
+  supplementary_prepbench.pdf
 
   paper/
     paper-vldb.pdf
-    supplementary_prepbench.pdf
 
   code/
     baselines/
