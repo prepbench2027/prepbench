@@ -49,12 +49,14 @@ prepbench-vldb-eab-artifact/
       zpen300/
       zpen600/
       strong_ea300/
-      zero_penalty_audit/
       strongEA_compare/
+      zero_penalty_audit/
 
     external_baselines/
       ctxpipe_scores.csv
       ctxpipe_paired_comparison.csv
+      ctxpipe_results.tsv
+      ctxpipelines.json
 
     trace_summary/
       status_summary.csv
